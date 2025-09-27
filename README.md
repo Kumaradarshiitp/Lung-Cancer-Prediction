@@ -58,7 +58,8 @@ To run this project, you will need to:
 
 3.Run the Python script.
 
-Output:
+# Project Outcomes : 
+
  1.Lung cancer target distribution: https://github.com/Kumaradarshiitp/Lung-Cancer-Prediction/blob/main/lung%20cancer%20target%20distribution.png
  
  2.Exploratory data analysis and feature-target relationship visualization :https://github.com/Kumaradarshiitp/Lung-Cancer-Prediction/blob/main/%20exploratory%20data%20analysis%20and%20feature-target%20relationship%20visualization.png
