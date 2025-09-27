@@ -58,3 +58,41 @@ To run this project, you will need to:
 
 3.Run the Python script.
 
+Output:
+ 1.Lung cancer target distribution: https://github.com/Kumaradarshiitp/Lung-Cancer-Prediction/blob/main/lung%20cancer%20target%20distribution.png
+ 
+ 2.Exploratory data analysis and feature-target relationship visualization :https://github.com/Kumaradarshiitp/Lung-Cancer-Prediction/blob/main/%20exploratory%20data%20analysis%20and%20feature-target%20relationship%20visualization.png
+ 
+ 3.Pain is distributed with respect to lung cancer : https://github.com/Kumaradarshiitp/Lung-Cancer-Prediction/blob/main/%20pain%20is%20distributed%20with%20respect%20to%20lung%20cancer.png
+ 
+ 4.Peer pressure, as a psychosocial factor :https://github.com/Kumaradarshiitp/Lung-Cancer-Prediction/blob/main/%20peer%20pressure%2C%20as%20a%20psychosocial%20factor.png
+ 
+ 5.Presence or absence of fatigue is distributed among lung cancer cases : https://github.com/Kumaradarshiitp/Lung-Cancer-Prediction/blob/main/%20presence%20or%20absence%20of%20fatigue%20is%20distributed%20among%20lung%20cancer%20cases.png
+ 
+ 6.Presence or absence of swallowing difficulty : https://github.com/Kumaradarshiitp/Lung-Cancer-Prediction/blob/main/%20presence%20or%20absence%20of%20swallowing%20difficulty.png
+ 
+ 7.Presence or absence of wheezing correlates with lung cancer cases : https://github.com/Kumaradarshiitp/Lung-Cancer-Prediction/blob/main/%20presence%20or%20absence%20of%20wheezing%20correlates%20with%20lung%20cancer%20cases%20.png
+ 
+ 8.This heatmap displays pairwise correlations between clinical features : https://github.com/Kumaradarshiitp/Lung-Cancer-Prediction/blob/main/This%20heatmap%20displays%20pairwise%20correlations%20between%20clinical%20features%20.png
+ 
+ 9.Alcohol consumption : https://github.com/Kumaradarshiitp/Lung-Cancer-Prediction/blob/main/alcohol%20consumption.png
+ 
+ 10.Chronic diseases and the likelihood of lung cancer : https://github.com/Kumaradarshiitp/Lung-Cancer-Prediction/blob/main/chronic%20diseases%20and%20the%20likelihood%20of%20lung%20cancer.png
+ 
+ 11.Correlation matrix, enabling identification : https://github.com/Kumaradarshiitp/Lung-Cancer-Prediction/blob/main/correlation%20matrix%2C%20enabling%20identification.png
+ 
+ 12.Lung cancer positivity (class 1) and negativity (class 0) : https://github.com/Kumaradarshiitp/Lung-Cancer-Prediction/blob/main/lung%20cancer%20positivity%20(class%201)%20and%20negativity%20(class%200).png
+ 
+ 13.Presence of yellow fingers (typically a sign of heavy smoking) : https://github.com/Kumaradarshiitp/Lung-Cancer-Prediction/blob/main/presence%20of%20yellow%20fingers%20(typically%20a%20sign%20of%20heavy%20smoking).png
+ 
+ 14.Presence or absence of allergy : https://github.com/Kumaradarshiitp/Lung-Cancer-Prediction/blob/main/presence%20or%20absence%20of%20allergy%20.png
+ 
+ 15.Presence or absence of coughing aligns with lung cancer diagnosis : https://github.com/Kumaradarshiitp/Lung-Cancer-Prediction/blob/main/presence%20or%20absence%20of%20coughing%20aligns%20with%20lung%20cancer%20diagnosis.png
+ 
+ 16.Presence or absence of smoking : https://github.com/Kumaradarshiitp/Lung-Cancer-Prediction/blob/main/presence%20or%20absence%20of%20smoking.png
+ 
+ 17.Shortness of breath, a key respiratory symptom : https://github.com/Kumaradarshiitp/Lung-Cancer-Prediction/blob/main/shortness%20of%20breath%2C%20a%20key%20respiratory%20symptom.png
+ 
+ 18.The presence of anxiety, a psychological factor : https://github.com/Kumaradarshiitp/Lung-Cancer-Prediction/blob/main/the%20presence%20of%20anxiety%2C%20a%20psychological%20factor.png
+ 
+
